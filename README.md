@@ -5,7 +5,6 @@ In this repository, I'm following the steps mentioned in this [article](https://
 The DataSet contains weather data for Seattle, WA from 2016  and retrieved using the NOAA Climate Data Online tool by [Will Koehrsen](https://github.com/WillKoehrsen)
 
 
-
 ### DataSet Description
 The below table shows the description of each column
 
@@ -29,7 +28,10 @@ The below table shows the description of each column
 | actual   | Max temperature measurement                           |
 
 
-
+dropped columns from original dataset contain :
+- "forecast_noaa"
+- "forecast_acc"
+- "forecast_under"
 
 
 
