@@ -9,6 +9,8 @@ It's a small dataset with 348 samples and 12 columns .
 ### DataSet Description
 The below table shows the description of each column
 
+#### Features
+
 | Column   | Description                                           |
 |----------|-------------------------------------------------------|
 | year     | 2016 for all data points                              |
@@ -18,8 +20,14 @@ The below table shows the description of each column
 | temp_2   | Max temperature 2 days prior                          |
 | temp_1   | Max temperature 1 day prior                           |
 | average  | Historical average max temperature                    |
-| actual   | Max temperature measurement                           |
 | friend   | Friend’s prediction, a random number between 20 below and 20 above the average |
+
+#### Target
+
+| Column   | Description                                           |
+|----------|-------------------------------------------------------|
+| actual   | Max temperature measurement                           |
+
 
 
 
