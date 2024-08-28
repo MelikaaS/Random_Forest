@@ -4,7 +4,7 @@ In this repository, I'm following the steps mentioned in this [article](https://
 ## DataSet Overview
 The DataSet contains weather data for Seattle, WA from 2016  and retrieved using the NOAA Climate Data Online tool by [Will Koehrsen](https://github.com/WillKoehrsen)
 
-It's a small dataset with 348 samples and 12 columns . 
+
 
 ### DataSet Description
 The below table shows the description of each column
